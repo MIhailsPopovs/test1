@@ -1,0 +1,1 @@
+{"version":3,"file":"ProductOrderAttributeValueChangeEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/ProductOrderAttributeValueChangeEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,yDAAqD;AAKxC,QAAA,+CAA+C,GAAG;IAI7D,YAAY,EAAE,GAAG,CAAC,MAAM,CAAC,kCAAe,CAAC;CAC1C,CAAC"}

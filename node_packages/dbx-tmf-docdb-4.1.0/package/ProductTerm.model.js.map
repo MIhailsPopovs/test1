@@ -1,0 +1,1 @@
+{"version":3,"file":"ProductTerm.model.js","sourceRoot":"","sources":["../../schema/docdb/ProductTerm.model.ts"],"names":[],"mappings":";;;AAAA,qDAAiD;AACjD,yDAAqD;AAKxC,QAAA,gBAAgB,GAAG;IAI9B,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,WAAW,EAAE,MAAM;IAInB,QAAQ,EAAE,8BAAa;IAIvB,IAAI,EAAE,MAAM;IAIZ,QAAQ,EAAE,kCAAe;CAC1B,CAAC"}

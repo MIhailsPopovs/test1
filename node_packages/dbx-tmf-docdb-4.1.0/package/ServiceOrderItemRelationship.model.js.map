@@ -1,0 +1,1 @@
+{"version":3,"file":"ServiceOrderItemRelationship.model.js","sourceRoot":"","sources":["../../schema/docdb/ServiceOrderItemRelationship.model.ts"],"names":[],"mappings":";;;AAAA,2EAAuE;AAK1D,QAAA,iCAAiC,GAAG;IAI/C,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAGf,SAAS,EAAE,oDAAwB;IAInC,gBAAgB,EAAE,MAAM;CACzB,CAAC"}

@@ -1,0 +1,28 @@
+import * as Joi from 'joi';
+export declare const PhysicalResource_CreateJoi: {
+    '@baseType': Joi.StringSchema;
+    '@referredType': Joi.StringSchema;
+    '@schemaLocation': Joi.StringSchema;
+    '@type': Joi.StringSchema;
+    administrativeState: Joi.StringSchema;
+    attachment: Joi.ArraySchema;
+    category: Joi.StringSchema;
+    description: Joi.StringSchema;
+    endOperatingDate: Joi.DateSchema;
+    manufactureDate: Joi.DateSchema;
+    name: Joi.StringSchema;
+    note: Joi.ArraySchema;
+    operationalState: Joi.StringSchema;
+    place: Joi.ObjectSchema<any>;
+    powerState: Joi.StringSchema;
+    relatedParty: Joi.ArraySchema;
+    resourceCharacteristic: Joi.ArraySchema;
+    resourceRelationship: Joi.ArraySchema;
+    resourceSpecification: Joi.ObjectSchema<any>;
+    resourceStatus: Joi.StringSchema;
+    resourceVersion: Joi.StringSchema;
+    serialNumber: Joi.StringSchema;
+    startOperatingDate: Joi.DateSchema;
+    usageState: Joi.StringSchema;
+    versionNumber: Joi.StringSchema;
+};

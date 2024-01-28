@@ -1,0 +1,1 @@
+{"version":3,"file":"Subscription.model.js","sourceRoot":"","sources":["../../schema/docdb/Subscription.model.ts"],"names":[],"mappings":";;;AAAA,6EAAyE;AAK5D,QAAA,iBAAiB,GAAG;IAI/B,QAAQ,EAAE,MAAM;IAIhB,cAAc,EAAE,sDAAyB;IAIzC,EAAE,EAAE,MAAM;IAIV,KAAK,EAAE,MAAM;IAIb,MAAM,EAAE,MAAM;CACf,CAAC"}

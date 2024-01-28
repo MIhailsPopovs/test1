@@ -1,0 +1,1 @@
+{"version":3,"file":"PhysicalResourceStateChangeEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/PhysicalResourceStateChangeEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,iEAA6D;AAKhD,QAAA,0CAA0C,GAAG;IAIxD,gBAAgB,EAAE,GAAG,CAAC,MAAM,CAAC,0CAAmB,CAAC;CAClD,CAAC"}

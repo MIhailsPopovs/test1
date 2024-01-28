@@ -1,0 +1,1 @@
+{"version":3,"file":"Milestone.model.js","sourceRoot":"","sources":["../../schema/docdb/Milestone.model.ts"],"names":[],"mappings":";;;AAGa,QAAA,cAAc,GAAG;IAI5B,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,WAAW,EAAE,MAAM;IAInB,EAAE,EAAE,MAAM;IAIV,OAAO,EAAE,MAAM;IAIf,aAAa,EAAE,IAAI;IAInB,IAAI,EAAE,MAAM;IAIZ,MAAM,EAAE,MAAM;CACf,CAAC"}

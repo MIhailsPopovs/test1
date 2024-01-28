@@ -1,0 +1,1 @@
+{"version":3,"file":"ServiceCandidateDeleteEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/ServiceCandidateDeleteEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,iEAA6D;AAKhD,QAAA,qCAAqC,GAAG;IAKnD,gBAAgB,EAAE,GAAG,CAAC,MAAM,CAAC,0CAAmB,CAAC;CAClD,CAAC"}

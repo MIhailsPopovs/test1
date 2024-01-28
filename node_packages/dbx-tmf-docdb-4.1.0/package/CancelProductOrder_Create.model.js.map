@@ -1,0 +1,1 @@
+{"version":3,"file":"CancelProductOrder_Create.model.js","sourceRoot":"","sources":["../../schema/docdb/CancelProductOrder_Create.model.ts"],"names":[],"mappings":";;;AAAA,mEAA+D;AAMlD,QAAA,8BAA8B,GAAG;IAI5C,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,kBAAkB,EAAE,MAAM;IAI1B,YAAY,EAAE,4CAAoB;IAIlC,yBAAyB,EAAE,IAAI;CAChC,CAAC"}

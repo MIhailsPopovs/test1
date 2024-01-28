@@ -1,0 +1,1 @@
+{"version":3,"file":"TaxItem.model.js","sourceRoot":"","sources":["../../schema/docdb/TaxItem.model.ts"],"names":[],"mappings":";;;AAAA,+CAA2C;AAK9B,QAAA,YAAY,GAAG;IAI1B,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,IAAI,EAAE,MAAM;IAIZ,EAAE,EAAE,MAAM;IAIV,SAAS,EAAE,wBAAU;IAIrB,WAAW,EAAE,MAAM;IAInB,OAAO,EAAE,MAAM;CAChB,CAAC"}

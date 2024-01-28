@@ -1,0 +1,1 @@
+{"version":3,"file":"CreditProfile.model.js","sourceRoot":"","sources":["../../schema/docdb/CreditProfile.model.ts"],"names":[],"mappings":";;;AAAA,yDAAqD;AAKxC,QAAA,kBAAkB,GAAG;IAIhC,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,iBAAiB,EAAE,IAAI;IAIvB,gBAAgB,EAAE,MAAM;IAIxB,WAAW,EAAE,MAAM;IAInB,QAAQ,EAAE,kCAAe;CAC1B,CAAC"}

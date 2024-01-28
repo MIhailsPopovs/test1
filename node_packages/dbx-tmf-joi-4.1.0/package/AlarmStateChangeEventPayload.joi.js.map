@@ -1,0 +1,1 @@
+{"version":3,"file":"AlarmStateChangeEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/AlarmStateChangeEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,2CAAuC;AAK1B,QAAA,+BAA+B,GAAG;IAI7C,KAAK,EAAE,GAAG,CAAC,MAAM,CAAC,oBAAQ,CAAC;CAC5B,CAAC"}

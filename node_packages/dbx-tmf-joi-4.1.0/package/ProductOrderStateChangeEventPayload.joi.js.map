@@ -1,0 +1,1 @@
+{"version":3,"file":"ProductOrderStateChangeEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/ProductOrderStateChangeEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,yDAAqD;AAKxC,QAAA,sCAAsC,GAAG;IAIpD,YAAY,EAAE,GAAG,CAAC,MAAM,CAAC,kCAAe,CAAC;CAC1C,CAAC"}

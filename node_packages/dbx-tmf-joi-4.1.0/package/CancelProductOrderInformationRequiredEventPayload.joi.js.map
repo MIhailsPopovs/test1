@@ -1,0 +1,1 @@
+{"version":3,"file":"CancelProductOrderInformationRequiredEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/CancelProductOrderInformationRequiredEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,qEAAiE;AAKpD,QAAA,oDAAoD,GAAG;IAIlE,kBAAkB,EAAE,GAAG,CAAC,MAAM,CAAC,8CAAqB,CAAC;CACtD,CAAC"}

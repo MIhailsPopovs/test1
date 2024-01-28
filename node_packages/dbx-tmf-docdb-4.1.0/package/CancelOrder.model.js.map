@@ -1,0 +1,1 @@
+{"version":3,"file":"CancelOrder.model.js","sourceRoot":"","sources":["../../schema/docdb/CancelOrder.model.ts"],"names":[],"mappings":";;;AAGa,QAAA,gBAAgB,GAAG;IAI9B,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,kBAAkB,EAAE,MAAM;IAI1B,yBAAyB,EAAE,IAAI;IAI/B,IAAI,EAAE,MAAM;IAIZ,EAAE,EAAE,MAAM;IAIV,yBAAyB,EAAE,IAAI;IAI/B,KAAK,EAAE,MAAM;CACd,CAAC"}

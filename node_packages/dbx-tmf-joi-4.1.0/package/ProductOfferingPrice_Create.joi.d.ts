@@ -1,0 +1,27 @@
+import * as Joi from 'joi';
+export declare const ProductOfferingPrice_CreateJoi: {
+    '@baseType': Joi.StringSchema;
+    '@schemaLocation': Joi.StringSchema;
+    '@type': Joi.StringSchema;
+    bundledPopRelationship: Joi.ArraySchema;
+    constraint: Joi.ArraySchema;
+    description: Joi.StringSchema;
+    isBundle: Joi.BooleanSchema;
+    lastUpdate: Joi.DateSchema;
+    lifecycleStatus: Joi.StringSchema;
+    name: Joi.StringSchema;
+    percentage: Joi.NumberSchema;
+    place: Joi.ArraySchema;
+    popRelationship: Joi.ArraySchema;
+    price: Joi.ObjectSchema<any>;
+    priceType: Joi.StringSchema;
+    pricingLogicAlgorithm: Joi.ArraySchema;
+    prodSpecCharValueUse: Joi.ArraySchema;
+    productOfferingTerm: Joi.ArraySchema;
+    recurringChargePeriodLength: Joi.NumberSchema;
+    recurringChargePeriodType: Joi.StringSchema;
+    tax: Joi.ArraySchema;
+    unitOfMeasure: Joi.ObjectSchema<any>;
+    validFor: Joi.ObjectSchema<any>;
+    version: Joi.NumberSchema;
+};

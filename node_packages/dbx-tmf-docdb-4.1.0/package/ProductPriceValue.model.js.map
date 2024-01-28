@@ -1,0 +1,1 @@
+{"version":3,"file":"ProductPriceValue.model.js","sourceRoot":"","sources":["../../schema/docdb/ProductPriceValue.model.ts"],"names":[],"mappings":";;;AAAA,+CAA2C;AAK9B,QAAA,sBAAsB,GAAG;IAIpC,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,cAAc,EAAE,wBAAU;IAI1B,UAAU,EAAE,MAAM;IAIlB,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,wBAAU;IAI7B,OAAO,EAAE,MAAM;CAChB,CAAC"}

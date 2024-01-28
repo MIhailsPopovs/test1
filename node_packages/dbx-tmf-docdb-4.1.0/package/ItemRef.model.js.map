@@ -1,0 +1,1 @@
+{"version":3,"file":"ItemRef.model.js","sourceRoot":"","sources":["../../schema/docdb/ItemRef.model.ts"],"names":[],"mappings":";;;AAGa,QAAA,YAAY,GAAG;IAI1B,WAAW,EAAE,MAAM;IAInB,eAAe,EAAE,MAAM;IAIvB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,UAAU,EAAE,MAAM;IAIlB,QAAQ,EAAE,MAAM;IAIhB,MAAM,EAAE,MAAM;IAId,IAAI,EAAE,MAAM;CACb,CAAC"}

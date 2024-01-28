@@ -1,0 +1,1 @@
+{"version":3,"file":"ContactMedium.model.js","sourceRoot":"","sources":["../../schema/docdb/ContactMedium.model.ts"],"names":[],"mappings":";;;AAAA,6EAAyE;AACzE,yDAAqD;AAKxC,QAAA,kBAAkB,GAAG;IAIhC,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,cAAc,EAAE,sDAAyB;IAIzC,UAAU,EAAE,MAAM;IAIlB,SAAS,EAAE,OAAO;IAIlB,QAAQ,EAAE,kCAAe;CAC1B,CAAC"}

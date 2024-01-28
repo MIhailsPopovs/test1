@@ -1,0 +1,1 @@
+{"version":3,"file":"ServiceOrderDeleteEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/ServiceOrderDeleteEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,yDAAqD;AAKxC,QAAA,iCAAiC,GAAG;IAG/C,YAAY,EAAE,GAAG,CAAC,MAAM,CAAC,kCAAe,CAAC;CAC1C,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"AccountRef.model.js","sourceRoot":"","sources":["../../schema/docdb/AccountRef.model.ts"],"names":[],"mappings":";;;AAGa,QAAA,eAAe,GAAG;IAI7B,WAAW,EAAE,MAAM;IAInB,eAAe,EAAE,MAAM;IAIvB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,WAAW,EAAE,MAAM;IAInB,IAAI,EAAE,MAAM;IAIZ,EAAE,EAAE,MAAM;IAIV,IAAI,EAAE,MAAM;CACb,CAAC"}

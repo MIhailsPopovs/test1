@@ -1,0 +1,1 @@
+{"version":3,"file":"ServiceOrderItemRef.model.js","sourceRoot":"","sources":["../../schema/docdb/ServiceOrderItemRef.model.ts"],"names":[],"mappings":";;;AAEa,QAAA,wBAAwB,GAAG;IAItC,WAAW,EAAE,MAAM;IAInB,eAAe,EAAE,MAAM;IAIvB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,MAAM,EAAE,MAAM;IAId,gBAAgB,EAAE,MAAM;IAIxB,cAAc,EAAE,MAAM;CACvB,CAAC"}

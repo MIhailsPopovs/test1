@@ -1,0 +1,20 @@
+import * as Joi from 'joi';
+export declare const ProductOfferingCharacteristicJoi: {
+    '@baseType': Joi.StringSchema;
+    '@schemaLocation': Joi.StringSchema;
+    '@type': Joi.StringSchema;
+    '@valueSchemaLocation': Joi.StringSchema;
+    configurable: Joi.BooleanSchema;
+    description: Joi.StringSchema;
+    extensible: Joi.BooleanSchema;
+    id: Joi.StringSchema;
+    isUnique: Joi.BooleanSchema;
+    maxCardinality: Joi.NumberSchema;
+    minCardinality: Joi.NumberSchema;
+    name: Joi.StringSchema;
+    productOfferingCharacteristicValue: Joi.ArraySchema;
+    productSpecCharRelationship: Joi.ArraySchema;
+    regex: Joi.StringSchema;
+    validFor: Joi.ObjectSchema<any>;
+    valueType: Joi.StringSchema;
+};

@@ -1,0 +1,1 @@
+{"version":3,"file":"PromotionAction.model.js","sourceRoot":"","sources":["../../schema/docdb/PromotionAction.model.ts"],"names":[],"mappings":";;;AAAA,uDAAmD;AAKtC,QAAA,oBAAoB,GAAG;IAIlC,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,eAAe,EAAE,gCAAc;IAI/B,UAAU,EAAE,MAAM;IAMlB,WAAW,EAAE,MAAM;IAInB,EAAE,EAAE,MAAM;CACX,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"PhysicalResourceCreateEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/PhysicalResourceCreateEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,iEAA6D;AAKhD,QAAA,qCAAqC,GAAG;IAInD,gBAAgB,EAAE,GAAG,CAAC,MAAM,CAAC,0CAAmB,CAAC;CAClD,CAAC"}

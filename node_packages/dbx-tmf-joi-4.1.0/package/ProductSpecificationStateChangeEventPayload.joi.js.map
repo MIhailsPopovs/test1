@@ -1,0 +1,1 @@
+{"version":3,"file":"ProductSpecificationStateChangeEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/ProductSpecificationStateChangeEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,yEAAqE;AAKxD,QAAA,8CAA8C,GAAG;IAI5D,oBAAoB,EAAE,GAAG,CAAC,MAAM,CAAC,kDAAuB,CAAC;CAC1D,CAAC"}

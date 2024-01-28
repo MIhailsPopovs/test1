@@ -1,0 +1,14 @@
+import * as Joi from 'joi';
+export declare const ProductOfferingAttributeValueChangeEventJoi: {
+    correlationId: Joi.StringSchema;
+    description: Joi.StringSchema;
+    domain: Joi.StringSchema;
+    event: Joi.ObjectSchema<any>;
+    eventId: Joi.StringSchema;
+    eventTime: Joi.DateSchema;
+    eventType: Joi.StringSchema;
+    fieldPath: Joi.StringSchema;
+    priority: Joi.StringSchema;
+    timeOcurred: Joi.DateSchema;
+    title: Joi.StringSchema;
+};

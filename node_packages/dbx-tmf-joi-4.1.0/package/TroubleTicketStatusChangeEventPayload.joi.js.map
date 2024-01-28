@@ -1,0 +1,1 @@
+{"version":3,"file":"TroubleTicketStatusChangeEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/TroubleTicketStatusChangeEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,2DAAuD;AAK1C,QAAA,wCAAwC,GAAG;IAItD,aAAa,EAAE,GAAG,CAAC,MAAM,CAAC,oCAAgB,CAAC;CAC5C,CAAC"}

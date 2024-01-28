@@ -1,0 +1,23 @@
+import * as Joi from 'joi';
+export declare const ProductOrderItemJoi: {
+    '@baseType': Joi.StringSchema;
+    '@schemaLocation': Joi.StringSchema;
+    '@type': Joi.StringSchema;
+    action: Joi.StringSchema;
+    appointment: Joi.ObjectSchema<any>;
+    billingAccount: Joi.ObjectSchema<any>;
+    id: Joi.StringSchema;
+    itemPrice: Joi.ArraySchema;
+    itemTerm: Joi.ArraySchema;
+    itemTotalPrice: Joi.ArraySchema;
+    payment: Joi.ArraySchema;
+    product: Joi.ObjectSchema<any>;
+    productOffering: Joi.ObjectSchema<any>;
+    productOfferingQualificationItem: Joi.ObjectSchema<any>;
+    productOrderItem: Joi.ArraySchema;
+    productOrderItemRelationship: Joi.ArraySchema;
+    qualification: Joi.ArraySchema;
+    quantity: Joi.NumberSchema;
+    quoteItem: Joi.ObjectSchema<any>;
+    state: Joi.StringSchema;
+};

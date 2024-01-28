@@ -1,0 +1,1 @@
+{"version":3,"file":"TerminationError.model.js","sourceRoot":"","sources":["../../schema/docdb/TerminationError.model.ts"],"names":[],"mappings":";;;AAGa,QAAA,qBAAqB,GAAG;IAInC,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,EAAE,EAAE,MAAM;IAIV,KAAK,EAAE,MAAM;CACd,CAAC"}

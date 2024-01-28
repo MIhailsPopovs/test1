@@ -1,0 +1,1 @@
+{"version":3,"file":"TaxCategory.joi.js","sourceRoot":"","sources":["../../schema/joi/TaxCategory.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAKd,QAAA,cAAc,GAAG;IAI5B,OAAO,EAAE,GAAG,CAAC,MAAM,EAAE,CAAC,OAAO,CAAC,aAAa,CAAC;IAI5C,IAAI,EAAE,GAAG,CAAC,MAAM,EAAE,CAAC,GAAG,EAAE;IAIxB,EAAE,EAAE,GAAG,CAAC,MAAM,EAAE;IAIhB,IAAI,EAAE,GAAG,CAAC,MAAM,EAAE;CACnB,CAAC"}

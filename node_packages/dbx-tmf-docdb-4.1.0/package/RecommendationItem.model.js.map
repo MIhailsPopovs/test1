@@ -1,0 +1,1 @@
+{"version":3,"file":"RecommendationItem.model.js","sourceRoot":"","sources":["../../schema/docdb/RecommendationItem.model.ts"],"names":[],"mappings":";;;AAAA,uEAAmE;AACnE,yEAAqE;AAKxD,QAAA,uBAAuB,GAAG;IAIrC,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,EAAE,EAAE,MAAM;IAIV,QAAQ,EAAE,MAAM;IAIhB,OAAO,EAAE,gDAAsB;IAI/B,eAAe,EAAE,kDAAuB;CACzC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"OrderItemRelationship.model.js","sourceRoot":"","sources":["../../schema/docdb/OrderItemRelationship.model.ts"],"names":[],"mappings":";;;AAEa,QAAA,0BAA0B,GAAG;IAIxC,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAGf,EAAE,EAAE,MAAM;IAIV,gBAAgB,EAAE,MAAM;CACzB,CAAC"}

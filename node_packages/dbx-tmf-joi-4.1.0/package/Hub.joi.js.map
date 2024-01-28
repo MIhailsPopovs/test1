@@ -1,0 +1,1 @@
+{"version":3,"file":"Hub.joi.js","sourceRoot":"","sources":["../../schema/joi/Hub.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAKd,QAAA,MAAM,GAAG;IAIpB,QAAQ,EAAE,GAAG,CAAC,MAAM,EAAE,CAAC,GAAG,EAAE,CAAC,QAAQ,EAAE;IAIvC,EAAE,EAAE,GAAG,CAAC,MAAM,EAAE,CAAC,SAAS,EAAE,CAAC,QAAQ,EAAE;IAIvC,KAAK,EAAE,GAAG,CAAC,MAAM,EAAE;CACpB,CAAC"}

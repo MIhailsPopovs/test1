@@ -1,0 +1,1 @@
+{"version":3,"file":"ProductOrderDeleteEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/ProductOrderDeleteEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,yDAAqD;AAKxC,QAAA,iCAAiC,GAAG;IAI/C,YAAY,EAAE,GAAG,CAAC,MAAM,CAAC,kCAAe,CAAC;CAC1C,CAAC"}

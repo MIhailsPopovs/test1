@@ -1,0 +1,1 @@
+{"version":3,"file":"Price.model.js","sourceRoot":"","sources":["../../schema/docdb/Price.model.ts"],"names":[],"mappings":";;;AAAA,+CAA2C;AAK9B,QAAA,UAAU,GAAG;IAIxB,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,cAAc,EAAE,wBAAU;IAI1B,UAAU,EAAE,MAAM;IAIlB,iBAAiB,EAAE,wBAAU;IAI7B,OAAO,EAAE,MAAM;CAChB,CAAC"}

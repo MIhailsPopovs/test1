@@ -1,0 +1,1 @@
+{"version":3,"file":"ErrorMessage.model.js","sourceRoot":"","sources":["../../schema/docdb/ErrorMessage.model.ts"],"names":[],"mappings":";;;AAGa,QAAA,iBAAiB,GAAG;IAI/B,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,IAAI,EAAE,MAAM;IAIZ,OAAO,EAAE,MAAM;IAIf,MAAM,EAAE,MAAM;IAId,cAAc,EAAE,MAAM;IAItB,MAAM,EAAE,MAAM;CACf,CAAC"}

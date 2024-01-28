@@ -1,0 +1,1 @@
+{"version":3,"file":"StatusChange.model.js","sourceRoot":"","sources":["../../schema/docdb/StatusChange.model.ts"],"names":[],"mappings":";;;AAGa,QAAA,iBAAiB,GAAG;IAI/B,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,UAAU,EAAE,IAAI;IAIhB,YAAY,EAAE,MAAM;IAIpB,MAAM,EAAE,MAAM;CACf,CAAC"}

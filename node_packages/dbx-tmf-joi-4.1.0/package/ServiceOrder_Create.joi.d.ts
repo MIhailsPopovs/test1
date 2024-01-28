@@ -1,0 +1,20 @@
+import * as Joi from 'joi';
+export declare const ServiceOrder_CreateJoi: {
+    '@baseType': Joi.StringSchema;
+    '@schemaLocation': Joi.StringSchema;
+    '@type': Joi.StringSchema;
+    cancellationDate: Joi.DateSchema;
+    cancellationReason: Joi.StringSchema;
+    category: Joi.StringSchema;
+    description: Joi.StringSchema;
+    externalId: Joi.StringSchema;
+    externalReference: Joi.ArraySchema;
+    note: Joi.ArraySchema;
+    notificationContact: Joi.StringSchema;
+    orderRelationship: Joi.ArraySchema;
+    priority: Joi.StringSchema;
+    relatedParty: Joi.ArraySchema;
+    requestedCompletionDate: Joi.DateSchema;
+    requestedStartDate: Joi.DateSchema;
+    serviceOrderItem: Joi.ArraySchema;
+};

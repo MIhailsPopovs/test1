@@ -1,0 +1,1 @@
+{"version":3,"file":"FeatureSpecificationRelationship.model.js","sourceRoot":"","sources":["../../schema/docdb/FeatureSpecificationRelationship.model.ts"],"names":[],"mappings":";;;AAAA,yDAAqD;AAKxC,QAAA,qCAAqC,GAAG;IAInD,SAAS,EAAE,MAAM;IAIjB,IAAI,EAAE,MAAM;IAIZ,uBAAuB,EAAE,MAAM;IAI/B,qBAAqB,EAAE,MAAM;IAI7B,gBAAgB,EAAE,MAAM;IAIxB,QAAQ,EAAE,kCAAe;CAC1B,CAAC"}

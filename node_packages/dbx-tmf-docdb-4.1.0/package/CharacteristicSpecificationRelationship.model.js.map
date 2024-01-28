@@ -1,0 +1,1 @@
+{"version":3,"file":"CharacteristicSpecificationRelationship.model.js","sourceRoot":"","sources":["../../schema/docdb/CharacteristicSpecificationRelationship.model.ts"],"names":[],"mappings":";;;AAAA,yDAAqD;AAKxC,QAAA,4CAA4C,GAAG;IAI1D,6BAA6B,EAAE,MAAM;IAIrC,IAAI,EAAE,MAAM;IAIZ,uBAAuB,EAAE,MAAM;IAI/B,qBAAqB,EAAE,MAAM;IAI7B,gBAAgB,EAAE,MAAM;IAIxB,QAAQ,EAAE,kCAAe;CAC1B,CAAC"}

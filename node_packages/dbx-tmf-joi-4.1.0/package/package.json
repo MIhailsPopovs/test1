@@ -1,0 +1,13 @@
+{
+  "name": "dbx-tmf-joi",
+  "version": "4.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "joi": ">=17"
+  }
+}

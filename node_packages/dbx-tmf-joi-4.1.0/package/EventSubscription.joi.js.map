@@ -1,0 +1,1 @@
+{"version":3,"file":"EventSubscription.joi.js","sourceRoot":"","sources":["../../schema/joi/EventSubscription.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAKd,QAAA,oBAAoB,GAAG;IAIlC,QAAQ,EAAE,GAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;IAIjC,EAAE,EAAE,GAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;IAI3B,KAAK,EAAE,GAAG,CAAC,MAAM,EAAE;CACpB,CAAC"}

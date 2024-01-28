@@ -1,0 +1,20 @@
+import * as Joi from 'joi';
+export declare const ProductSpecification_UpdateJoi: {
+    '@schemaLocation': Joi.StringSchema;
+    attachment: Joi.ArraySchema;
+    brand: Joi.StringSchema;
+    bundledProductSpecification: Joi.ArraySchema;
+    description: Joi.StringSchema;
+    isBundle: Joi.BooleanSchema;
+    lifecycleStatus: Joi.StringSchema;
+    name: Joi.StringSchema;
+    productNumber: Joi.StringSchema;
+    productSpecCharacteristic: Joi.ArraySchema;
+    productSpecificationRelationship: Joi.ArraySchema;
+    relatedParty: Joi.ArraySchema;
+    resourceSpecification: Joi.ArraySchema;
+    serviceSpecification: Joi.ArraySchema;
+    targetProductSchema: Joi.ObjectSchema<any>;
+    validFor: Joi.ObjectSchema<any>;
+    version: Joi.NumberSchema;
+};

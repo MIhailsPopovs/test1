@@ -1,0 +1,1 @@
+{"version":3,"file":"PromotionCriteria.model.js","sourceRoot":"","sources":["../../schema/docdb/PromotionCriteria.model.ts"],"names":[],"mappings":";;;AAGa,QAAA,sBAAsB,GAAG;IAIpC,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,gBAAgB,EAAE,MAAM;IAIxB,iBAAiB,EAAE,MAAM;IAIzB,aAAa,EAAE,MAAM;IAIrB,EAAE,EAAE,MAAM;CACX,CAAC"}

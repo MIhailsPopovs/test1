@@ -1,0 +1,1 @@
+{"version":3,"file":"GroupAlarmsStateChangeEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/GroupAlarmsStateChangeEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,uDAAmD;AAKtC,QAAA,qCAAqC,GAAG;IAInD,WAAW,EAAE,GAAG,CAAC,MAAM,CAAC,gCAAc,CAAC;CACxC,CAAC"}

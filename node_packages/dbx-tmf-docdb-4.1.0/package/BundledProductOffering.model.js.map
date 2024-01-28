@@ -1,0 +1,1 @@
+{"version":3,"file":"BundledProductOffering.model.js","sourceRoot":"","sources":["../../schema/docdb/BundledProductOffering.model.ts"],"names":[],"mappings":";;;AAAA,6FAAyF;AAK5E,QAAA,2BAA2B,GAAG;IAIzC,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,4BAA4B,EAAE,sEAAiC;IAI/D,IAAI,EAAE,MAAM;IAIZ,EAAE,EAAE,MAAM;IAIV,eAAe,EAAE,MAAM;IAIvB,IAAI,EAAE,MAAM;CACb,CAAC"}

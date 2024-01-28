@@ -1,0 +1,21 @@
+import * as Joi from 'joi';
+export declare const POPChargeJoi: {
+    '@baseType': Joi.StringSchema;
+    '@schemaLocation': Joi.StringSchema;
+    '@type': Joi.StringSchema;
+    constraint: Joi.ArraySchema;
+    description: Joi.StringSchema;
+    href: Joi.StringSchema;
+    id: Joi.StringSchema;
+    lastUpdate: Joi.DateSchema;
+    lifecycleStatus: Joi.StringSchema;
+    name: Joi.StringSchema;
+    price: Joi.ObjectSchema<any>;
+    priceAlteration: Joi.ArraySchema;
+    priceType: Joi.StringSchema;
+    recurringChargePeriod: Joi.StringSchema;
+    recurringChargePeriodLength: Joi.NumberSchema;
+    unitOfMeasure: Joi.ObjectSchema<any>;
+    validFor: Joi.ObjectSchema<any>;
+    version: Joi.NumberSchema;
+};

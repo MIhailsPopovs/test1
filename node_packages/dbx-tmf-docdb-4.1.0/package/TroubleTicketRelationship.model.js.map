@@ -1,0 +1,1 @@
+{"version":3,"file":"TroubleTicketRelationship.model.js","sourceRoot":"","sources":["../../schema/docdb/TroubleTicketRelationship.model.ts"],"names":[],"mappings":";;;AAGa,QAAA,8BAA8B,GAAG;IAI5C,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,IAAI,EAAE,MAAM;IAIZ,EAAE,EAAE,MAAM;IAIV,IAAI,EAAE,MAAM;IAIZ,gBAAgB,EAAE,MAAM;CACzB,CAAC"}

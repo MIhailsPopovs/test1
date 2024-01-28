@@ -1,0 +1,1 @@
+{"version":3,"file":"OrderTerm.model.js","sourceRoot":"","sources":["../../schema/docdb/OrderTerm.model.ts"],"names":[],"mappings":";;;AAAA,qDAAiD;AAKpC,QAAA,cAAc,GAAG;IAI5B,WAAW,EAAE,MAAM;IAInB,iBAAiB,EAAE,MAAM;IAIzB,OAAO,EAAE,MAAM;IAIf,WAAW,EAAE,MAAM;IAInB,QAAQ,EAAE,8BAAa;IAIvB,IAAI,EAAE,MAAM;CACb,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ProductOfferingDeleteEventPayload.joi.js","sourceRoot":"","sources":["../../schema/joi/ProductOfferingDeleteEventPayload.joi.ts"],"names":[],"mappings":";;;AAAA,2BAA2B;AAC3B,+DAA2D;AAK9C,QAAA,oCAAoC,GAAG;IAIlD,eAAe,EAAE,GAAG,CAAC,MAAM,CAAC,wCAAkB,CAAC;CAChD,CAAC"}
